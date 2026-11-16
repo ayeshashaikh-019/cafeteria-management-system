@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# Local configuration / secrets
+config/app.properties
+.env
+
+# Runtime files
+logs/
+receipts/*.txt
+.DS_Store
+Thumbs.db
